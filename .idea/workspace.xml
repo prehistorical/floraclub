@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7e797d7-582c-43bf-9b7c-c02a7eff3ab4" name="Default" comment="" />
+    <ignored path="floraclub.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>/usr/local/bin/composer</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="sitestruct.php" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/config/sitestruct.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="73" column="6" selection-start="2336" selection-end="2336" vertical-scroll-proportion="1.6820277" vertical-offset="0" max-vertical-offset="1305">
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="floraclub" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="flora_club.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/flora_club.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="34" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-15.625" vertical-offset="450" max-vertical-offset="2055">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateAdminController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CreateAdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="-2.372549" vertical-offset="224" max-vertical-offset="810">
+              <folding>
+                <element signature="e#40#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveAdminController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SaveAdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="-10.0" vertical-offset="585" max-vertical-offset="1215">
+              <folding>
+                <element signature="e#40#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flora_club_groupitem.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/flora_club_groupitem.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="14" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.41218638" vertical-offset="0" max-vertical-offset="837">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayAdminController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DisplayAdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Block.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Block.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="333" column="61" selection-start="11186" selection-end="11186" vertical-scroll-proportion="-183.29167" vertical-offset="596" max-vertical-offset="5850">
+              <folding>
+                <element signature="e#23#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bool.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Bool.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="54" selection-start="345" selection-end="353" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Group.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Group.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="50" selection-start="1340" selection-end="1340" vertical-scroll-proportion="-40.625" vertical-offset="0" max-vertical-offset="2040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="composer controller:make CreateAdminController --plain" />
+      <command text="php artisan make:controller CreateAdminController --plain" />
+      <command text="php artisan make:controller DeleteAdminController --plain" />
+      <command text="php artisan make:controller SaveAdminController --plain" />
+      <command text="php artisan make:controller DisplayAdminController --plain" />
+      <command text="bower install" />
+      <command text="php artisan make:migration create_numb_table" />
+      <command text="php artisan make:migration create_numbs_table" />
+      <command text="php artisan migration:rollback" />
+      <command text="php artisan migration list" />
+      <command text="php artisan migrate:rollback" />
+      <command text="php artisan migrate" />
+      <command text="php artisan make:migration create_bools_table" />
+      <command text="php artisan migrate" />
+      <command text="php artisan migrate:rollback" />
+      <command text="php artisan migrate" />
+      <command text="php artisan list" />
+      <command text="php composer list" />
+      <command text="php composer help" />
+      <command text="php composer --help" />
+      <command text="php composer --h" />
+      <command text="php composer -h" />
+      <command text="php composer" />
+      <command text="composer" />
+      <command text="composer dumpautoload" />
+    </commandsHistory>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_131534_create_blocks_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_131623_create_contacts_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_170718_create_bids_table.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_131608_create_images_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_131553_create_groups_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_185406_create_prices_table.php" />
+        <option value="$PROJECT_DIR$/app/Price.php" />
+        <option value="$PROJECT_DIR$/config/resize.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/.bowerrc" />
+        <option value="$PROJECT_DIR$/public/adminka/anycreate.js" />
+        <option value="$PROJECT_DIR$/public/adminka/groupitemsave.js" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_07_01_133254_create_numb_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_07_01_133347_create_numbs_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_07_01_134525_create_bools_table.php" />
+        <option value="$PROJECT_DIR$/public/adminka/uploadimage.js" />
+        <option value="$PROJECT_DIR$/resources/views/back/scriptsarea.blade.php" />
+        <option value="$PROJECT_DIR$/public/adminka/anysave.js" />
+        <option value="$PROJECT_DIR$/public/adminka/groupitemcreate.js" />
+        <option value="$PROJECT_DIR$/resources/views/back/topmenu.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/adminka.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/модули сервера" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_162911_create_stringfields_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_27_162920_create_textfields_table.php" />
+        <option value="$PROJECT_DIR$/app/Textfield.php" />
+        <option value="$PROJECT_DIR$/app/Imageitem.php" />
+        <option value="$PROJECT_DIR$/app/Numb.php" />
+        <option value="$PROJECT_DIR$/app/Stringfield.php" />
+        <option value="$PROJECT_DIR$/app/Bool.php" />
+        <option value="$PROJECT_DIR$/public/adminka/js/groupitemcreate.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/DisplayAdminController.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/public/adminka/js/uploadimage.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ImageFileController.php" />
+        <option value="$PROJECT_DIR$/app/ImageFileLogic.php" />
+        <option value="$PROJECT_DIR$/config/sitestruct.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/blocks/remember_day.blade.php" />
+        <option value="$PROJECT_DIR$/public/adminka/js/anysave.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CreateAdminController.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/blocks/flora_club.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SaveAdminController.php" />
+        <option value="$PROJECT_DIR$/app/Group.php" />
+        <option value="$PROJECT_DIR$/resources/views/back/blocks/flora_club_groupitem.blade.php" />
+        <option value="$PROJECT_DIR$/app/Block.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="http://floraclub" name="floraclub" port="9000" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Local PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/danielstjules/stringy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/phpspec" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floraclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floraclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floraclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Configurable.PHP.Composer" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/back/blocks" />
+      <recent name="$PROJECT_DIR$/app/Providers" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/adminka" />
+      <recent name="$PROJECT_DIR$/public/adminka/js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.floraclub">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="floraclub" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="floraclub" start_url="http://floraclub">
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.floraclub" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e797d7-582c-43bf-9b7c-c02a7eff3ab4" name="Default" comment="" />
+      <created>1435409501154</created>
+      <updated>1435409501154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1045" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1456777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2264151" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29855716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="57" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="849" selection-end="849" vertical-scroll-proportion="-15.083333" vertical-offset="283" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="40" selection-start="1746" selection-end="1755" vertical-scroll-proportion="-7.5416665" vertical-offset="734" max-vertical-offset="31020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.29411766" vertical-offset="350" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="2102" selection-end="2102" vertical-scroll-proportion="-2.8294117" vertical-offset="3365" max-vertical-offset="4215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/ClassLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="304" column="0" selection-start="9057" selection-end="9057" vertical-scroll-proportion="0.14588235" vertical-offset="4316" max-vertical-offset="6165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/AliasLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.14588235" vertical-offset="881" max-vertical-offset="2610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="472" column="0" selection-start="13100" selection-end="13100" vertical-scroll-proportion="0.33248731" vertical-offset="6844" max-vertical-offset="14295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="40" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.6137184" vertical-offset="0" max-vertical-offset="831">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Bid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Textfield.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="196" selection-end="196" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Imageitem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="37" selection-start="374" selection-end="374" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Stringfield.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="37" selection-start="343" selection-end="343" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_07_01_134525_create_bools_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="37" selection-start="506" selection-end="506" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_27_131608_create_images_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="43" selection-start="480" selection-end="678" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="600" column="0" selection-start="14457" selection-end="14457" vertical-scroll-proportion="0.25120774" vertical-offset="8777" max-vertical-offset="10320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="-8.166667" vertical-offset="809" max-vertical-offset="4530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1232" column="6" selection-start="35552" selection-end="35552" vertical-scroll-proportion="0.6118644" vertical-offset="17909" max-vertical-offset="21210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="65" selection-start="1692" selection-end="1692" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="458" selection-end="458" vertical-scroll-proportion="-7.625" vertical-offset="57" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="55" selection-start="5663" selection-end="5663" vertical-scroll-proportion="-18.083334" vertical-offset="1771" max-vertical-offset="3120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="21" selection-start="1249" selection-end="1249" vertical-scroll-proportion="0.37810946" vertical-offset="282" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/ImageFileServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.80099505" vertical-offset="87" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/remember_day_coco_0_06H_AudDW9A.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/resize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="26" selection-start="43" selection-end="43" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="209" column="0" selection-start="4815" selection-end="4815" vertical-scroll-proportion="0.60144925" vertical-offset="2607" max-vertical-offset="3435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="0" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.2210145" vertical-offset="1467" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ImageFileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="472" selection-end="472" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="e#39#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/File/UploadedFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="0" selection-start="3346" selection-end="3346" vertical-scroll-proportion="0.19411765" vertical-offset="1440" max-vertical-offset="4590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ImageFileLogic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="57" selection-start="3752" selection-end="3752" vertical-scroll-proportion="-19.5" vertical-offset="1587" max-vertical-offset="2640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/adminka/js/uploadimage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="57" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Numb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/bouquets_perfect.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/back/adminka.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="3" selection-start="378" selection-end="415" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/adminka/js/groupitemcreate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="49" selection-start="309" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_27_131553_create_groups_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/remember_day.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="6" selection-start="3197" selection-end="3197" vertical-scroll-proportion="0.4968051" vertical-offset="769" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="858" column="22" selection-start="22791" selection-end="22791" vertical-scroll-proportion="-14.0" vertical-offset="12144" max-vertical-offset="50535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="133" selection-end="133" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="268" selection-end="268" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="6090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Relation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="283" column="77" selection-start="6806" selection-end="6806" vertical-scroll-proportion="-16.708334" vertical-offset="3784" max-vertical-offset="4410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/flora_club.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="34" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-15.625" vertical-offset="450" max-vertical-offset="2055">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DisplayAdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Bool.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="54" selection-start="345" selection-end="353" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.33223686" vertical-offset="1013" max-vertical-offset="4290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SaveAdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="-10.0" vertical-offset="585" max-vertical-offset="1215">
+          <folding>
+            <element signature="e#40#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="50" selection-start="1340" selection-end="1340" vertical-scroll-proportion="-40.625" vertical-offset="0" max-vertical-offset="2040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CreateAdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="-2.372549" vertical-offset="224" max-vertical-offset="810">
+          <folding>
+            <element signature="e#40#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="333" column="61" selection-start="11186" selection-end="11186" vertical-scroll-proportion="-183.29167" vertical-offset="596" max-vertical-offset="5850">
+          <folding>
+            <element signature="e#23#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/sitestruct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="6" selection-start="2336" selection-end="2336" vertical-scroll-proportion="1.6820277" vertical-offset="0" max-vertical-offset="1305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/adminka/js/anysave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="26" selection-start="2096" selection-end="2096" vertical-scroll-proportion="-0.93935925" vertical-offset="1646" max-vertical-offset="2520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/back/blocks/flora_club_groupitem.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="14" selection-start="1143" selection-end="1143" vertical-scroll-proportion="0.41218638" vertical-offset="0" max-vertical-offset="837">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

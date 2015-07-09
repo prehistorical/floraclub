@@ -1,0 +1,12 @@
+{
+  "name": "floraclubadmin",
+  "version": "0.1.0",
+  "description": "adminka floraclub",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "1",
+    "moment": "~2.10.3",
+    "trumbowyg": "~1.1.7"
+  }
+}
